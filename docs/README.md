@@ -1,1 +1,0 @@
-# RAMSTER Documentation
